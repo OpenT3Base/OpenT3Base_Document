@@ -1,0 +1,8 @@
+Aspect	Production	Manufacturing
+Definition	The process of creating goods or services.	The process of converting raw materials into finished goods.
+Scope	Broader, includes services and intangible products.	Narrower, focused on physical goods.
+Processes	Can involve various methods, including assembly, processing, and service delivery.	Primarily involves mechanical and chemical processes.
+Output	Can be goods, services, or a combination of both.	Primarily tangible products.
+Examples	Film production, software development, and agriculture.	Automobile manufacturing, electronics assembly, and textile production.
+Flexibility	Often more adaptable to changes in demand and trends.	Typically less flexible due to fixed processes and equipment.
+Labor	May involve skilled labor, creative professionals, and service workers.	Often involves skilled labor, technicians, and assembly line workers.
